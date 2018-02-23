@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "231957655928",
+    "firebase_url": "https://coleteruidos.firebaseio.com",
+    "project_id": "coleteruidos",
+    "storage_bucket": "coleteruidos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231957655928:android:5337e9c85a13b974",
+        "android_client_info": {
+          "package_name": "com.tcc.paulo.maparuido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231957655928-4aef8tof901cpt82j77hh5c2f9kuoiq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcc.paulo.maparuido",
+            "certificate_hash": "791b4a1230cbcd6f0ebc6df9ddf10c4820d142d0"
+          }
+        },
+        {
+          "client_id": "231957655928-64jnouta8nshq90ce6vb6o1rb7oq0ctq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-o7wcfCRliB-zcWzdXJM9Lzu7oyljRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231957655928-64jnouta8nshq90ce6vb6o1rb7oq0ctq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Sat Feb 17 01:44:17 AMST 2018
+base.0=/home/paulo/ProjetosPHP/tcc/hibrido/ColeteRuido/platforms/android/app/build/intermediates/transforms/dexMerger/debug/56
+renamed.0=classes.dex
+file.0=/home/paulo/ProjetosPHP/tcc/hibrido/ColeteRuido/platforms/android/app/build/intermediates/transforms/dexMerger/debug/56/classes.dex
